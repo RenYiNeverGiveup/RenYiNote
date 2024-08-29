@@ -8,3 +8,8 @@ tags:
 
 [TOC] 
 ## 操作 
+
+
+访问GitHub
+
+设置ssh可以pull/push代码
